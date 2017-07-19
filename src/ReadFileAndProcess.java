@@ -1,3 +1,9 @@
+
+/* Copyright (C) 2017 Ilakkuvaselvi Manoharan - All Rights Reserved
+ * 
+ */
+
+
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
